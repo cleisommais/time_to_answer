@@ -15,3 +15,6 @@ Style/Documentation:
 
 Style/MixinUsage:
   Enabled: false
+
+Layout/LineLength:
+  Enabled: false
