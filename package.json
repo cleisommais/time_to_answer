@@ -1,5 +1,7 @@
 {
   "name": "time_to_answer",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "prettier": "^2.8.1"
+  }
 }

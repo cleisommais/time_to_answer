@@ -1,0 +1,10 @@
+{
+  "ruby.rubocop.suppressRubocopWarnings": true,
+  "ruby.rubocop.configFilePath": ".rubocop.yml",
+  "ruby.rubocop.onSave": true,
+  "[ruby]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+  "editor.formatOnSave": true
+}
