@@ -4,7 +4,9 @@
   "ruby.rubocop.onSave": true,
   "[ruby]": {
     "editor.insertSpaces": true,
-    "editor.tabSize": 4
+    "editor.tabSize": 2
   },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2
 }
