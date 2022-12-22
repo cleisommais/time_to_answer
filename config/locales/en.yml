@@ -1,2 +1,26 @@
 en:
-  hello: 'Hello world'
+  activerecord:
+    models:
+      admin:
+        one: Admin
+        other: Admins
+      profile:
+        one: Profile
+        other: Profiles
+    attributes:
+      admin:
+        id: Id
+        email: Email
+        encrypted_password: Password
+        reset_password_token: Token password Reset
+        remember_created_at: Remember created at
+        created_at: Created at
+        updated_at: Updated at
+      profile:
+        id: Id
+        email: Email
+        encrypted_password: Password
+        reset_password_token: Token password Reset
+        remember_created_at: Remember created at
+        created_at: Created at
+        updated_at: Updated at
