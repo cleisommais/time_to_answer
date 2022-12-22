@@ -4,9 +4,9 @@ en:
       admin:
         one: Admin
         other: Admins
-      profile:
-        one: Profile
-        other: Profiles
+      user:
+        one: User
+        other: Users
     attributes:
       admin:
         id: Id
@@ -16,7 +16,7 @@ en:
         remember_created_at: Remember created at
         created_at: Created at
         updated_at: Updated at
-      profile:
+      user:
         id: Id
         email: Email
         encrypted_password: Password

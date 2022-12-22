@@ -4,9 +4,9 @@ pt-BR:
       admin:
         one: Administrador
         other: Administradores
-      profile:
-        one: Perfil
-        other: Perfis
+      user:
+        one: Usuário
+        other: Usuários
     attributes:
       admin:
         id: Código
@@ -16,7 +16,7 @@ pt-BR:
         remember_created_at: Lembra-se criado em
         created_at: Criado em
         updated_at: Atualizado em
-      profile:
+      user:
         id: Código
         email: Email
         encrypted_password: Senha

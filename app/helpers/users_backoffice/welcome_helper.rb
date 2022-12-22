@@ -1,4 +1,4 @@
-module ProfilesBackoffice
+module UsersBackoffice
   module WelcomeHelper
   end
 end
