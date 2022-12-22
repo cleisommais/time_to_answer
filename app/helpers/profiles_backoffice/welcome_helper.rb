@@ -1,2 +1,4 @@
-module ProfilesBackoffice::WelcomeHelper
+module ProfilesBackoffice
+  module WelcomeHelper
+  end
 end

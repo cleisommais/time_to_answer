@@ -1,2 +1,4 @@
-module AdminsBackoffice::WelcomeHelper
+module AdminsBackoffice
+  module WelcomeHelper
+  end
 end
