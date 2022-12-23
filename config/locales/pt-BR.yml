@@ -1,4 +1,6 @@
 pt-BR:
+  user_signed: Usuário logado
+  user_logout: Usuário não logado
   activerecord:
     models:
       admin:
