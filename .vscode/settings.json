@@ -6,6 +6,10 @@
     "editor.insertSpaces": true,
     "editor.tabSize": 2
   },
+  "[html.erb]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "prettier.tabWidth": 2
